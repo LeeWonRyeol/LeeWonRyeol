@@ -3,7 +3,7 @@
   ![header](https://capsule-render.vercel.app/api?type=Venom&text=LeeWonRyeol&height=230) 
 </div>
 <div align=center>Welcome my github profile ~!</div>
-<h1 align="center">Hi 👋, I'm LeeWonRyeol</h1><br><br>
+<h1 align="center">Hi 👋, I'm Lee won ryeol</h1><br><br>
 
 
 
